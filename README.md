@@ -8,10 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  
 ![main2](https://github.com/HyeongminJo/hwarajo/assets/113600578/16c953d3-2cc1-4b11-98fc-aaa76aafa400)
 * INVENTORY
-![inventory](https://github.com/HyeongminJo/hwarajo/assets/113600578/971e4115-ac19-403f-9161-441285879255)
+![inventory](https://github.com/HyeongminJo/hwarajo/assets/113600578/7662305c-2b2c-43c8-b227-e8abff8a348c)
 * INVENTORY (세로)
  
-![iventory2](https://github.com/HyeongminJo/hwarajo/assets/113600578/f42ee513-58c9-4357-a193-ef29dc258f80)
+![inventory2](https://github.com/HyeongminJo/hwarajo/assets/113600578/7c82c70d-0e55-4f6a-ae28-2a5a11fa7476)
 * ABOUT
 ![about](https://github.com/HyeongminJo/hwarajo/assets/113600578/9d86de49-a2e2-4adc-a608-43cda440e561)
 * AOBUT (세로)
